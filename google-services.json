@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "632604168066",
+    "project_id": "appatrimoniomv",
+    "storage_bucket": "appatrimoniomv.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:632604168066:android:b033a42b25a10771ef499b",
+        "android_client_info": {
+          "package_name": "com.example.apppatrimonio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "632604168066-par5vujmo98uajvshq8m0dgb3nqhbsl8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDX9n7c2Gez-AnQK7roZ85GjPtvBs5TUl4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "632604168066-par5vujmo98uajvshq8m0dgb3nqhbsl8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
